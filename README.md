@@ -1,3 +1,3 @@
 # algorithm-practice
 
-some test
+test
